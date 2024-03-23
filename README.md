@@ -1,8 +1,7 @@
-# React + Vite
+React Button Background Color Change with Vite
+This project demonstrates a simple React application built with Vite, showcasing how to change the background color of a button when clicked. Leveraging the speed and simplicity of Vite along with the power of React, it provides a straightforward example for handling user interactions in a modern web application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+React: Utilizing the popular React library for building user interfaces.
+Vite: Harnessing the fast, modern build tooling provided by Vite for lightning-fast development experience.
+Button Interaction: Demonstrates the ability to handle user interactions, specifically changing the background color of a button upon click event.
